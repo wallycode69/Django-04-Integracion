@@ -1,0 +1,52 @@
+mint@mint:/media/mint/Disco local/Mis Documentos/Cursos/Codo a Codo/Django/Clases/04 - Integracion/Ejercicios Integradores$ python3 ej05.py
+
+
+* * * * * * * * * * * * * * * *
+* * *  Versión Iterativa  * * *
+* * * * * * * * * * * * * * * *
+
+
+Ingrese un Valor Entero: 1.0
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+----------------------------------------------------------
+Ingrese un Valor Entero: <---------------------------------- (Enter)
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+----------------------------------------------------------
+Ingrese un Valor Entero:  <--------------------------------- (espacio)
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+----------------------------------------------------------
+Ingrese un Valor Entero: a
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+----------------------------------------------------------
+Ingrese un Valor Entero: 2
+PERFECTO..!!!  INGRESÓ UN VALOR CORRECTO..!!!
+FELICITACIONES..!!!  INGRESÓ UN VALOR ENTERO..!!!
+----------------------------------------------------------
+Tiempo de Proceso: 8.996762037277222
+
+
+* * * * * * * * * * * * * * * *
+* * *  Versión Recursiva  * * *
+* * * * * * * * * * * * * * * *
+
+
+Ingrese un Valor Entero: 2.0
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+Ingrese un Valor Entero:  <--------------------------------- (espacio)
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+Ingrese un Valor Entero: <---------------------------------- (Enter)
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+Ingrese un Valor Entero: a
+Valor Incorrecto..!!! (ValueError) Debe ser un ENTERO..!!!
+Ingrese un Valor Entero: 2
+PERFECTO..!!!  INGRESÓ UN VALOR CORRECTO..!!!
+FELICITACIONES..!!!  INGRESÓ UN VALOR ENTERO..!!!         -+
+---------------------------------------------------------- |
+---------------------------------------------------------- | (por cada 
+---------------------------------------------------------- |  llamada a 
+---------------------------------------------------------- |  recursión)
+---------------------------------------------------------- |
+Tiempo de Proceso: 8.379979133605957                      -+
+
+mint@mint:/media/mint/Disco local/Mis Documentos/Cursos/Codo a Codo/Django/Clases/04 - Integracion/Ejercicios Integradores$ 
+
